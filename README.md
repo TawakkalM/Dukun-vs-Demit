@@ -18,7 +18,7 @@ menakutkan.
 
 ## UML
 
-![Class Diagram UML DvD!](/Koentji-Production/assets/UML_DvD.jpg)
+![Class Diagram UML DvD!](assets/UML_DvD.jpg)
 
 ## Contributors
 
