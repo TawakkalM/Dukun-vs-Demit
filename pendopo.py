@@ -4,8 +4,13 @@ pygame.init()
 
 class Pendopo():
     def __init__(self, image100, image50, image25, bg, x, y, scale):
+<<<<<<< HEAD
         self.__kesehatan = 1000
         self.__maks_kesehatan = self.get_kesehatan()
+=======
+        self.kesehatan = 1000
+        self.maks_kesehatan = self.kesehatan
+>>>>>>> fe29b8eefcb23e34248adc6ef7f554371fe35871
         self.ditembak = False
         self.__uang = 0
         self.__skor = 0
@@ -23,6 +28,7 @@ class Pendopo():
 
         self.screen = pygame.display.set_mode((900, 650))
         pygame.display.set_caption("DVD")
+<<<<<<< HEAD
     
     # Method getter untuk mendapatkan info kesehatan pendopo
     def get_kesehatan(self):
@@ -70,13 +76,19 @@ class Pendopo():
     # Method setter untuk menambah skor
     def set_tambah_skor(self, value):
         self.__skor += value
+=======
+>>>>>>> fe29b8eefcb23e34248adc6ef7f554371fe35871
 
     def render(self):
         # Render latar belakang
         self.screen.blit(self.bg, (0, 0))
         
+<<<<<<< HEAD
         # periksa gambar yang sesuai dengan kesehatan saat ini
         if self.get_kesehatan() <= 250:
+=======
+        if self.kesehatan <= 250:
+>>>>>>> fe29b8eefcb23e34248adc6ef7f554371fe35871
             self.gambar = self.gambar25
         elif self.get_kesehatan() <= 500:
             self.gambar = self.gambar50
@@ -93,6 +105,12 @@ class Pendopo():
                 self.set_kesehatan(self.get_maks_kesehatan())
 
     def pertahanan(self):
+<<<<<<< HEAD
         if self.get_uang() >= 500:
             self.set_tambah_maks_kesehatan(250)
             self.set_kurang_uang(500)
+=======
+        if self.uang >= 500:
+            self.maks_kesehatan += 250
+            self.uang -= 500
+>>>>>>> fe29b8eefcb23e34248adc6ef7f554371fe35871
