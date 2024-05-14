@@ -5,7 +5,7 @@ from dukun import Dukun1, Dukun2, Dukun3
 # Inisialisasi pygame
 pygame.init()
 
-# Class Button
+# Class Input
 class Input:
     def __init__(self, image, pos, text_input, font_path, base_color, hovering_color):
         self.image = image
