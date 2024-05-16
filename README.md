@@ -12,13 +12,41 @@ untuk datang kembali dengan trik dan kekuatan supranatural yang
 menakutkan.
 </p>
 
+## Bahasa Yang Digunakan
+
+<ol>
+    <li> Python</li>
+
+</ol>
+
+## Library Yang Digunakan
+
+<ol>
+    <li> Pygame </li>
+    <li> Random </li>
+    <li> Math </li>
+    <li> ABC </li>
+    <li> Sys </li>
+    <li> Os </li>
+
+</ol>
+
 ## Cara menjalankan App
 
-...
+<p>1. Download seluruh file, seperti pada gambar</p>
+
+![Download File!](/assets/readme/1.png)
+
+<p>2. Buka file "game.py", kemudian jalankan filenya</p>
+'''cmd
+
+python game.py
+
+'''
 
 ## UML
 
-![Class Diagram UML DvD!](assets/UML_DvD.jpg)
+![Class Diagram UML DvD!](/assets/UML_DvD.jpg)
 
 ## Contributors
 
