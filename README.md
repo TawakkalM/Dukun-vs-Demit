@@ -1,8 +1,8 @@
-# <center> **Dukun vs Demit**
+# <h1 align="center">Dukun vs Demit</h1>
 
 ## Deskripsi
 
-<p style='text-align: justify;'>
+<p align="justify">
 Dalam game yang berjudul "DvD : Dukun vs Demit", anda akan 
 memasuki dunia yang dipenuhi kegelapan dan ketegangan. Dimana 
 dunia manusia yang tenang dan damai diserang oleh hantu-hantu 
@@ -16,7 +16,6 @@ menakutkan.
 
 <ol>
     <li> Python</li>
-
 </ol>
 
 ## Library Yang Digunakan
@@ -28,16 +27,18 @@ menakutkan.
     <li> ABC </li>
     <li> Sys </li>
     <li> Os </li>
-
 </ol>
 
 ## Cara menjalankan App
 
 <p>1. Download seluruh file, seperti pada gambar</p>
 
-![Download File!](/assets/readme/1.png)
+<p align="center">
+  <img src="/assets/readme/1.png" alt="Download File!" />
+</p>
 
 <p>2. Buka file "game.py", kemudian jalankan filenya</p>
+
 ```bash
 python game.py
 ```
