@@ -111,11 +111,11 @@ class Game:
         self.screen.blit(img, (x, y))
     
     def show_info(self):
-        self.gambar_teks("Money: " + str(self.pendopo.get_uang()), self.font, self.WHITE, 10, 10)
-        self.gambar_teks("Score: " + str(self.pendopo.get_skor()), self.font, self.WHITE, 210, 10)
-        self.gambar_teks("High Score: " + str(self.high_score), self.font, self.WHITE, 210, 30)
-        self.gambar_teks("Level: " + str(self.level), self.font, self.WHITE, 500, 10)
-        self.gambar_teks("Health: " + str(self.pendopo.get_kesehatan()) + " / " + str(self.pendopo.get_maks_kesehatan()), self.font, self.WHITE, 
+        self.gambar_teks("Uang: " + str(self.pendopo.get_uang()), self.font, self.WHITE, 10, 10)
+        self.gambar_teks("Skor: " + str(self.pendopo.get_skor()), self.font, self.WHITE, 180, 10)
+        self.gambar_teks("Skor Tertinggi: " + str(self.high_score), self.font, self.WHITE, 180, 30)
+        self.gambar_teks("Level: " + str(self.level), self.font, self.WHITE, 530, 10)
+        self.gambar_teks("Darah: " + str(self.pendopo.get_kesehatan()) + " / " + str(self.pendopo.get_maks_kesehatan()), self.font, self.WHITE, 
                          self.SCREEN_WIDTH - 300, self.SCREEN_HEIGHT - 50)
         self.gambar_teks('1000', self.font, self.WHITE, self.SCREEN_WIDTH - 195, 70)
         self.gambar_teks('500', self.font, self.WHITE, self.SCREEN_WIDTH - 80, 70)
@@ -211,10 +211,10 @@ class Game:
             else:
                 self.sound_play.stop()
                 self.gambar_teks(text="GAME OVER!", font=self.font, warna=self.WHITE, x=350, y=275)
-                self.gambar_teks(text="PRESS 'A' TO PLAY AGAIN",font=self.font, warna=self.WHITE, x=250, y=335)
+                self.gambar_teks(text="PRESS 'P' TO PLAY AGAIN",font=self.font, warna=self.WHITE, x=250, y=335)
                 pygame.mouse.set_visible(True)
                 key = pygame.key.get_pressed()
-                if key[pygame.K_a]:
+                if key[pygame.K_p]:
                     # reset semua variabel permainan
                     self.game_over = False
                     self.level = 1
