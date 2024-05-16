@@ -31,16 +31,30 @@ menakutkan.
 
 ## Cara menjalankan App
 
-<p>1. Download seluruh file, seperti pada gambar</p>
+<p>1. Download seluruh file, seperti pada gambar. Jika sudah ekstrak terlebih dahulu.</p>
 
 <p align="center">
   <img src="/assets/readme/1.png" alt="Download File!" />
 </p>
 
-<p>2. Buka file "game.py", kemudian jalankan filenya</p>
+<p>2. Install library pygame</p>
+
+```bash
+py -m pip install -U pygame --user
+```
+
+<p>3. Buka file "game.py", kemudian jalankan filenya</p>
+
+<p>Untuk Windows</p>
 
 ```bash
 python game.py
+```
+
+<p>Untuk Mac</p>
+
+```bash
+python3 game.py
 ```
 
 ## UML
