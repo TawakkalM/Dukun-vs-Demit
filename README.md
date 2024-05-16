@@ -38,11 +38,7 @@ menakutkan.
 ![Download File!](/assets/readme/1.png)
 
 <p>2. Buka file "game.py", kemudian jalankan filenya</p>
-'''cmd
-
-python game.py
-
-'''
+    python game.py
 
 ## UML
 
