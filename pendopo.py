@@ -77,7 +77,6 @@ class Pendopo():
         
         # periksa gambar yang sesuai dengan kesehatan saat ini
         if self.get_kesehatan() <= 250:
-        if self.kesehatan <= 250:
             self.gambar = self.gambar25
         elif self.get_kesehatan() <= 500:
             self.gambar = self.gambar50

@@ -5,7 +5,7 @@ from dukun import Dukun1, Dukun2, Dukun3
 # Inisialisasi pygame
 pygame.init()
 
-# Class Input
+# Class Button
 class Input:
     def __init__(self, image, pos, text_input, font_path, base_color, hovering_color):
         self.image = image
@@ -80,7 +80,7 @@ class Menu:
             PLAY_MOUSE_POS = pygame.mouse.get_pos()
             self.SCREEN.fill("#050A30")
 
-            PLAY_TEXT = self.create_text("SELECT YOUR DUKUN", "White", self.font, 44)
+            PLAY_TEXT = self.create_text("PILIH DUKUN KAMU", "White", self.font, 44)
             self.create_rect(PLAY_TEXT, 450, 120)
 
             NAMA_1 = self.create_text("Gus", "White", self.font, 20)
@@ -103,13 +103,13 @@ class Menu:
             dukun_3 = Dukun3(dukun3_img, 1000, 1000, 720, 330)
             dukun_3.display(self.SCREEN)
             
-            SELECT_1 = Input(image=new_btn, pos=(180,500), text_input="Select",
+            SELECT_1 = Input(image=new_btn, pos=(180,500), text_input="PILIH",
                               font_path=font_btn, base_color="White", hovering_color="Green")
             
-            SELECT_2 = Input(image=new_btn, pos=(450,500), text_input="Select",
+            SELECT_2 = Input(image=new_btn, pos=(450,500), text_input="PILIH",
                               font_path=font_btn, base_color="White", hovering_color="Green")
             
-            SELECT_3 = Input(image=new_btn, pos=(720,500), text_input="Select",
+            SELECT_3 = Input(image=new_btn, pos=(720,500), text_input="PILIH",
                               font_path=font_btn, base_color="White", hovering_color="Green")
             
             self.update_btn(PLAY_MOUSE_POS, [SELECT_1, SELECT_2, SELECT_3])
