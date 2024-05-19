@@ -1,8 +1,7 @@
-#import libraries
 import pygame
 import math
 
-#initialise pygame
+# Inisialisasi pygame
 pygame.init()
 
 SCREEN_WIDTH = 900
@@ -41,10 +40,10 @@ class Crosshair():
         mx, my = pygame.mouse.get_pos()
         self.rect.center = (mx, my)
 
-        # hide mouse
+        # menghilangkan mouse
         pygame.mouse.set_visible(False)
         
         screen.blit(self.image, self.rect)
 
-#create groups
+# membuat grup serangan
 group_serangan = pygame.sprite.Group()
