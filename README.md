@@ -85,15 +85,15 @@ python3 game.py
 
 ## UML
 
-![Class Diagram UML DvD!](/assets/readme/UML_DvD.jpg)
+![Class Diagram UML DvD!](/assets/readme/UML_DvD.png)
 
 ## Contributors
 
-<ol> 
-    <li> Bintang Fikri Fauzan (122140008) </li>
-    <li> M Raihan Athalah (122140022) </li>
-    <li> Tawakkal Rabbani M (122140029) </li>
-    <li> M Fakhri Nur (122140034) </li>
-    <li> Rafki Haykhal Alif (122140035) </li>
-    <li> Elma Nurul Fatika (122140069) </li>
-</ol>
+| Nama                 | NIM       | link Github                                              |
+| -------------------- | --------- | -------------------------------------------------------- |
+| Bintang Fikri Fauzan | 122140008 | [@bintangfikrif](https://github.com/bintangfikrif)       |
+| M Raihan Athalah     | 122140022 | [@Hannntastix](https://github.com/Hannntastix)           |
+| Tawakkal Rabbani M   | 122140029 | [@TawakkalM](https://github.com/TawakkalM)               |
+| M Fakhri Nur         | 122140034 | [@Sovenable](https://github.com/Sovenable)               |
+| Rafki Haykhal Alif   | 122140035 | [@RafkiHaykhalAlif](https://github.com/RafkiHaykhalAlif) |
+| Elma Nurul Fatika    | 122140069 | [@ElmaaNF](https://github.com/ElmaaNF)                   |
