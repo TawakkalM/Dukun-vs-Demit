@@ -21,12 +21,12 @@ menakutkan.
 ## Library Yang Digunakan
 
 <ol>
-    <li> Pygame </li>
-    <li> Random </li>
-    <li> Math </li>
-    <li> ABC </li>
-    <li> Sys </li>
-    <li> Os </li>
+    <li> Modul Pygame </li>
+    <li> Modul Random </li>
+    <li> Modul Math </li>
+    <li> Modul ABC </li>
+    <li> Modul Sys </li>
+    <li> Modul Os </li>
 </ol>
 
 ## Cara menjalankan App
@@ -89,7 +89,7 @@ python3 game.py
 
 ## Contributors
 
-| Nama                 | NIM       | link Github                                              |
+| Nama                 | NIM       | Link Github                                              |
 | -------------------- | --------- | -------------------------------------------------------- |
 | Bintang Fikri Fauzan | 122140008 | [@bintangfikrif](https://github.com/bintangfikrif)       |
 | M Raihan Athalah     | 122140022 | [@Hannntastix](https://github.com/Hannntastix)           |
@@ -97,3 +97,13 @@ python3 game.py
 | M Fakhri Nur         | 122140034 | [@Sovenable](https://github.com/Sovenable)               |
 | Rafki Haykhal Alif   | 122140035 | [@RafkiHaykhalAlif](https://github.com/RafkiHaykhalAlif) |
 | Elma Nurul Fatika    | 122140069 | [@ElmaaNF](https://github.com/ElmaaNF)                   |
+
+## Referensi
+
+| Referensi  | Link Referensi                                                                                                                                                                                                                                                                                                                                |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Game       | [@Castle Defender Saga](https://www.bing.com/ck/a?!&&p=bc9b08dd8e1f6bd2JmltdHM9MTcxNjE2MzIwMCZpZ3VpZD0yNDZiNDM3ZC00OWM4LTYyMDEtM2QxOC01MmUyNDg5ZTYzNTYmaW5zaWQ9NTIzOA&ptn=3&ver=2&hsh=3&fclid=246b437d-49c8-6201-3d18-52e2489e6356&psq=castle+defender+saga&u=a1aHR0cHM6Ly93d3cuY3JhenlnYW1lcy5jb20vZ2FtZS9jYXN0bGUtZGVmZW5kZXItc2FnYQ&ntb=1) |
+| Sound Menu | [@Mystical Theme](https://opengameart.org/content/mystical-theme)                                                                                                                                                                                                                                                                             |
+| Sound Game | [@Horror Song](https://opengameart.org/content/short-horror-song-melody)                                                                                                                                                                                                                                                                      |
+| Demit      | [@Demit Sprite](https://craftpix.net/freebies/free-ghost-pixel-art-sprite-sheets/?num=1&count=19&sq=ghost&pos=2)                                                                                                                                                                                                                              |
+| Dukun      | [@Dukun Sprite](https://craftpix.net/freebies/free-wizard-sprite-sheets-pixel-art/?num=1&count=43&sq=wizard&pos=4)                                                                                                                                                                                                                            |
