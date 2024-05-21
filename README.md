@@ -1,3 +1,7 @@
+# Link Presentasi
+
+[Link Presentasi Final](https://youtu.be/3f0747qM3pw?si=3qiC2aEEF3Is507g)
+
 # <h1 align="center">Dukun vs Demit</h1>
 
 ## Deskripsi
@@ -89,14 +93,14 @@ python3 game.py
 
 ## Contributors
 
-| Nama                 | NIM       | Link Github                                              |
-| -------------------- | --------- | -------------------------------------------------------- |
-| Bintang Fikri Fauzan | 122140008 | [@bintangfikrif](https://github.com/bintangfikrif)       |
-| M Raihan Athalah     | 122140022 | [@Hannntastix](https://github.com/Hannntastix)           |
-| Tawakkal Rabbani M   | 122140029 | [@TawakkalM](https://github.com/TawakkalM)               |
-| M Fakhri Nur         | 122140034 | [@Sovenable](https://github.com/Sovenable)               |
-| Rafki Haykhal Alif   | 122140035 | [@RafkiHaykhalAlif](https://github.com/RafkiHaykhalAlif) |
-| Elma Nurul Fatika    | 122140069 | [@ElmaaNF](https://github.com/ElmaaNF)                   |
+| Nama                 | NIM       | Kontribusi                 | Link Github                                              |
+| -------------------- | --------- | -------------------------- | -------------------------------------------------------- |
+| Bintang Fikri Fauzan | 122140008 | Programmer                 | [@bintangfikrif](https://github.com/bintangfikrif)       |
+| M Raihan Athalah     | 122140022 | Programmer                 | [@Hannntastix](https://github.com/Hannntastix)           |
+| Tawakkal Rabbani M   | 122140029 | Project Leader, Programmer | [@TawakkalM](https://github.com/TawakkalM)               |
+| M Fakhri Nur         | 122140034 | Designer                   | [@Sovenable](https://github.com/Sovenable)               |
+| Rafki Haykhal Alif   | 122140035 | Designer                   | [@RafkiHaykhalAlif](https://github.com/RafkiHaykhalAlif) |
+| Elma Nurul Fatika    | 122140069 | Designer                   | [@ElmaaNF](https://github.com/ElmaaNF)                   |
 
 ## Referensi
 
