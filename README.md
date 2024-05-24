@@ -1,6 +1,7 @@
-# Link Presentasi
+# Link Video
 
-[Link Presentasi Final](https://youtu.be/3f0747qM3pw?si=3qiC2aEEF3Is507g)
+[Demo Aplikasi](https://drive.google.com/file/d/1FN8tNkc9M0CnExaVVqZXX8eiv-n6MZrP/view?usp=drive_link)
+[Presentasi Final](https://youtu.be/3f0747qM3pw?si=3qiC2aEEF3Is507g)
 
 # <h1 align="center">Dukun vs Demit</h1>
 
